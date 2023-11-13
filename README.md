@@ -27,8 +27,8 @@ THEN I find a concise, descriptive title
 
 ### Website Link
 
-Deployed Application: https:// 
-GitHub Repository: https://github.com/hatwin98/goku-saitama
+Deployed Application: https://hatwin98.github.io/goku-saitamaa/
+GitHub Repository: https://github.com/hatwin98/goku-saitamaa
 
 ### Screenshot
 
