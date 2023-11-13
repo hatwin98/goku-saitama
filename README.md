@@ -32,8 +32,6 @@ GitHub Repository: https://github.com/hatwin98/goku-saitama
 
 ### Screenshot
 
-Assets/01-html-css-git-homework-demo.png
-
 <img src="assets/01-html-css-git-homework-demo.png" alt="horiseon demo" title="Horiseon Website">
 
 
